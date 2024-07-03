@@ -1,0 +1,10 @@
+# Install necessary packages
+gradio requests transformers sentence-transformers faiss-cpu langchain
+-q langchain
+-q torch
+-q transformers
+-q sentence-transformers
+-q datasets
+q faiss-cpu
+requests
+-U langchain-community
